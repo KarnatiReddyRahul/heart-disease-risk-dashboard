@@ -85,7 +85,7 @@ groq
 
 ## 🌐 Live Demo
 Try the live dashboard here:
-https://karnatireddyrahul-heart-disease-risk-dashboard-app.streamlit.app
+https://heart-disease-predictor26.streamlit.app/
 
 ## 📈 Future Improvements
 - Add more patient datasets for better accuracy
